@@ -9,3 +9,5 @@ This HR Analytics Dashboard is a helpful tool for visualizing and understanding 
 	• Attrition by Education: Employees with a technical degree have the lowest attrition rate (5%), while those with other education levels have a higher attrition rate (14%). <br>
 	• Attrition by Job Role: Laboratory technicians have the highest attrition rate (62), followed by sales executives (57) and research scientists (47). <br>
 	• Attrition by Salary Slab: Employees who make less than INR5,000 have the highest attrition rate (60%), followed by those who make between INR5,000 and INR10,000 (49%). Hospitality Analysis
+# Live Dashboard
+[Project.README.md.file.pdf](https://github.com/ArjeetSoni/Hr-Analytics-Dashboard/files/15261686/Project.README.md.file.pdf)
