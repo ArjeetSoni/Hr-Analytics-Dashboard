@@ -10,4 +10,5 @@ This HR Analytics Dashboard is a helpful tool for visualizing and understanding 
 	• Attrition by Job Role: Laboratory technicians have the highest attrition rate (62), followed by sales executives (57) and research scientists (47). <br>
 	• Attrition by Salary Slab: Employees who make less than INR5,000 have the highest attrition rate (60%), followed by those who make between INR5,000 and INR10,000 (49%). Hospitality Analysis
 # Live Dashboard
-[Project.README.md.file.pdf](https://github.com/ArjeetSoni/Hr-Analytics-Dashboard/files/15261686/Project.README.md.file.pdf)
+![image](https://github.com/ArjeetSoni/Hr-Analytics-Dashboard/assets/152283528/bd2c3b4e-deda-4347-bdc1-ae1a75c8b31d)
+
