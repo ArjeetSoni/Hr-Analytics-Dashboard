@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 This Project is part of data analytics virtual internship at Ducat India.<br>	
-This repository contains the code, datasets, and insights derived from the analysis , an imaginary company. The analysis was carried out as part of the #Ducatvirtualinternship program at AtliQ Technologies.
+This repository contains the code, datasets, and insights derived from the analysis .The analysis was carried out as part of the #Ducatvirtualinternship program at AtliQ Technologies.
 
 # Project 
 This HR Analytics Dashboard is a helpful tool for visualizing and understanding workforce trends. By identifying areas with high turnover, HR can develop targeted interventions to improve employee retention. <br>
